@@ -1,19 +1,20 @@
-## Welcome to ArkansasWeather.link
+## Welcome to ARwx repo.
 
-Our site has recently moved to reduce costs and simplify the content. You'll find a few key recommendations and important links. Our mission is to help everyone be more prepared and weather aware.
+I decided to reduce costs and simplify the content. You'll find a few key recommendations and important links. Our mission is to help everyone be more prepared and weather aware.
 
 ### Staying Informed
 I recommend the following apps and services to stay informed about severe weather.
 
 1. [Weather Radio](https://www.amazon.com/dp/B00176T9OY/ref=cm_sw_em_r_mt_dp_U_AC01DbA6128V6) - They cost about $30 and it could save your life. Plug in your location and it will wake you up if the NWS issues a watch or warning for your location. They are loud and annoying for a reason. If you don’t have time to wait for Amazon delivery check your local Kroger or Walmart. You’ll need to lookup your SAME code. Here is the [NWS SAME code list](https://www.nws.noaa.gov/nwr/coverage/ccov.php?State=AR) for Arkansas. I turn off everything other than Tornado Warning. When I hear that radio go off it's time to take cover.
-2. [WeatherCall](https://weathercallservices.com/personal-use/) - Calls and text alerts for your precise home location.
-3. [WeatherUnderGround Mobile App](https://www.wunderground.com/download) - Reliable severe weather alerts
+2. [WeatherCall](https://weathercallservices.com/personal-use/) - Calls and text alerts for your precise home location. $10 a year
+3. [WeatherUnderGround Mobile App](https://www.wunderground.com/download) - Reliable severe weather alerts.
+4. [DarkSky](https://darksky.net/app) for iOS is free an has reliable alerts as well.
 
 Please keep in mind that storms and **tornadoes can strike at night** when you are asleep. You need a system that will wake you up.
 
 ### Additional Weather Apps
-1. Radarscope - The professional weather radar app. Nothing else comes close
-2. Hello Weather - Great interface, multiple sources, excellent privacy policy.
+1. [Radarscope](https://www.radarscope.app/) - THE professional weather radar app. Nothing else comes close.
+2. [Hello Weather](https://helloweather.com/) - An excellent weather app with multiple sources an exemplary privacy policy. Lots of weather apps cell your location data. That's why I stopped using WeatherUnderground. Hello Weather does NOT have severe alerts at this time.
 
 ### Official Weather Links
 -   [National Weather Service (NWS)](http://weather.gov/)
@@ -36,7 +37,6 @@ Storms have away for doing funny things to the systems that we take for granted.
 - Establish an Out-of-Town Contact (OOC) – Phone systems might be able to route you out-of-region easier than in town. Pick a friend or family member that you all agree to call if severe weather strikes and you are separated and can’t get in touch with your immediate family. Use this out OOC as a relay and check-in to know everyone is safe.
 - Remember to try texting – SMS takes very little data and may work even if calls don’t.
 - Write down numbers – If you dropped your phone while running to shelter do you know the number of your spouse? OOC? Kid’s school? As you make this plan, write it down on a contact card and keep it in a purse or wallet.
-- Tell Family about Safe and Well – [Safe and Well](https://safeandwell.communityos.org/cms/) is a Red Cross site where you can list yourself as safe after a major disaster. Might be a good idea to let family know to look there in case they don’t hear from you.
 - Use Ready.gov‘s great resources like the [Family Communication Plan Builder](https://www.fema.gov/media-library-data/1440449346150-1ff18127345615d8b7e1effb4752b668/Family_Comm_Plan_508_20150820.pdf) and more.
 
 ## Build a Kit
