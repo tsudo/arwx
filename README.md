@@ -1,6 +1,5 @@
-## Welcome to ARwx repo.
-
-I decided to reduce costs and simplify the content. You'll find a few key recommendations and important links. Our mission is to help everyone be more prepared and weather aware.
+## Welcome to Severe Weather Readiness 101
+(Formerly known as ARwx repo.)
 
 ### Staying Informed
 I recommend the following apps and services to stay informed about severe weather.
@@ -20,6 +19,9 @@ Storms and **tornadoes can strike at night** when you are asleep. You need a sys
 -   [National Weather Service (NWS)](http://weather.gov/)
 -   [NWS Little Rock (LZK)](http://srh.noaa.gov/lzk/)
 -   [NWS Storm Prediction Center](http://spc.noaa.gov/)
+
+### A few other key sources
+- [Weather Experts Twitter List](link) - A list of trusted meteorologists in Arkansas.
 
 # Prep 101
 
